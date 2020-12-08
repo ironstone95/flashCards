@@ -1,0 +1,34 @@
+.mtj.tmp/
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+hs_err_pid*
+
+bin/
+build/
+.gradle
+.gradletasknamecache
+gradle-app.setting
+!gradle-wrapper.jar
+
+out/
+.idea/
+.idea_modules/
+*.iml
+*.ipr
+*.iws
+
+*.yaml
+*.s3db
+
+Problems/
+A good stack/
+IMPORTant/
+Make it your own/
+Menu, please_/
+Stage one, card one/
+Statistics/
+What’s on the card/
+
